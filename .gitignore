@@ -1,5 +1,6 @@
 *.env
 wandb/
+data/
 
 .ipynb_checkpoints/
 
